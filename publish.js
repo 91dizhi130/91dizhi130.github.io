@@ -42,7 +42,7 @@ var urls=[
 	'rt96e83z.com',
 ];                                                                                                                  
 
-var JumpPage="https://diodwsq9.cc";
+var JumpPage="https://oo2pzoku5.cc";
 
 var newestUrls = [];
 
