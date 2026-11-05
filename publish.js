@@ -42,7 +42,7 @@ var urls=[
 	'n250aadu.cc',
 ];                                                                                                                  
 
-var JumpPage="https://oo2pzoku5.cc";
+var JumpPage="https://eminjyetk.cc";
 
 var newestUrls = [];
 
