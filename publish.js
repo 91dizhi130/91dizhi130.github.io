@@ -37,9 +37,9 @@ var emails = [
 ];
 
 var urls=[
+	'fqqcyagos.cc',
 	'gcxmtbtux.cc',
 	'tgxrdzrp.cc',
-	'sqswmbwni.cc',
 ];                                                                                                                  
 
 var JumpPage="https://ogfktlmy.cc";
